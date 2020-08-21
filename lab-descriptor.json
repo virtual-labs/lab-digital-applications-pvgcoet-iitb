@@ -11,7 +11,7 @@
     "introduction": "Welcome to Digital Applications Lab",
     "experiments": [
     		{
-	        "name": "Washing machine control using basic AND & NOT gates",
+	        "name": "Washing machine control using basic AND and NOT gates",
 		"short-name": "washin-machine-control",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/washing-machine-control-pvg",
  	        "tag": "v1.0.0",
@@ -23,7 +23,7 @@
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
-	        "name": "Basics of NOT gate and its application in an 8-bit one's complement circuit",
+	        "name": "Basics of NOT gate and its application in an eight bit ones complement circuit",
 		"short-name": "eight-bit-ones-complement",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/eight-bit-ones-complement-circuit-pvg",
  	        "tag": "v1.0.0",
@@ -35,7 +35,7 @@
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
-	        "name": "Seat belt warning system using basic AND & NOT gates",
+	        "name": "Seat belt warning system using basic AND and NOT gates",
 		"short-name": "seat-belt-warning-system",
 		"repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/seat-belt-warning-system-pvg",
  	        "tag": "v1.0.0",
@@ -47,7 +47,7 @@
                 "tag": "v1.0.0",
                 "deploy": true
 	  },{
-                "name": "Water level control using basic AND & NOT gates",
+                "name": "Water level control using basic AND and NOT gates",
                 "short-name": "water-level-control",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/water-level-control-pvg",
                 "tag": "v1.0.0",
