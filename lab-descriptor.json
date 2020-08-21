@@ -105,8 +105,8 @@
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
         "universities": [
-			{"SPPU"}, 
-			{"AKTU"}
+			{"SPPU", 
+			"AKTU"}
 	]
     }
 }
