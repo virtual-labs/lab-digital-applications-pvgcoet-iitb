@@ -24,7 +24,7 @@
          	"deploy": true
 	    }, {
 	        "name": "Basics of NOT gate and its application in an 8-bit one's complement circuit",
-		"short-name": "8-bit-one's-complement",
+		"short-name": "eight-bit-ones-complement",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/eight-bit-ones-complement-circuit-pvg",
  	        "tag": "v1.0.0",
          	"deploy": true
@@ -89,7 +89,7 @@
                 "tag": "v1.0.0",
                 "deploy": true
    	 },{	
-		"name":"DIY - Build your own combinational logic circuit using generalized simulator",
+		"name":"DIY Build your own combinational logic circuit using generalized simulator",
                 "short-name": "generalized-simulator",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/generalized-simulator-pvg",
                 "tag": "v1.0.0",
