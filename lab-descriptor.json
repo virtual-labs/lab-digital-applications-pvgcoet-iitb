@@ -37,7 +37,7 @@
 	    }, {
 	        "name": "Seat belt warning system using basic AND and NOT gates",
 		"short-name": "seat-belt-warning-system",
-		"repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/seat-belt-warning-system-pvg",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/seat-belt-warning-system-pvg",
  	        "tag": "v1.0.1",
          	"deploy": true
 	   },{
@@ -73,7 +73,7 @@
  	  },{
                 "name": "XOR gate and its application in staircase light control",
                 "short-name": "staircase-light-control",
-                "repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/staircase-light-control-pvg",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/staircase-light-control-pvg",
                 "tag": "v1.0.1",
                 "deploy": true
 	  },{
@@ -85,7 +85,7 @@
 	  },{
                 "name": "Cockpit warning light control using basic logic gates",
                 "short-name": "cockpit-warning-light-control",
-                "repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/cockpit-warning-light-control-pvg",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/cockpit-warning-light-control-pvg",
                 "tag": "v1.0.1",
                 "deploy": true
    	 },{	
