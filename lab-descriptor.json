@@ -55,7 +55,7 @@
 	  },{
                 "name": "Electronic lock using basic logic gates",
                 "short-name": "electronic-lock",
-                "repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/electronic-lock-pvg",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/electronic-lock-pvg",
                 "tag": "v1.0.1",
                 "deploy": true
 	  },{
