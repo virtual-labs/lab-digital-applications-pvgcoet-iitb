@@ -1,112 +1,171 @@
 {
-    "broadArea": {
-        "name": "Electronics and Communication Engineering",
-        "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+  "broadArea": {
+    "name": "Electronics and Communication Engineering",
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+  },
+  "lab": "Digital Applications",
+  "phase": 3,
+  "deployLab": true,
+  "collegeName": "IITB",
+  "baseUrl": "da-iitb.vlabs.ac.in",
+  "introduction": "Welcome to Digital Applications Lab",
+  "experiments": [
+    {
+      "name": "Washing machine control using basic AND and NOT gates",
+      "short-name": "washin-machine-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/washing-machine-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "lab": "Digital Applications",
-    "phase": 3,
-    "deployLab":true,
-    "collegeName": "IITB",
-    "baseUrl": "da-iitb.vlabs.ac.in",
-    "introduction": "Welcome to Digital Applications Lab",
-    "experiments": [
-    		{
-	        "name": "Washing machine control using basic AND and NOT gates",
-		"short-name": "washin-machine-control",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/washing-machine-control-pvg",
- 	        "tag": "v1.0.1",
-         	"deploy": true
-	    }, {
-	        "name": "Basics of OR gate and its application in industrial control",
-		"short-name": "industrial-control",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/industrial-control-pvg",
- 	        "tag": "v1.0.1",
-         	"deploy": true
-	    }, {
-	        "name": "Basics of NOT gate and its application in an eight bit ones complement circuit",
-		"short-name": "eight-bit-ones-complement",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/eight-bit-ones-complement-circuit-pvg",
- 	        "tag": "v1.0.1",
-         	"deploy": true
-	    }, {
-	        "name": "Basic NOT gate and its application in fuel level indicator",
-		"short-name": "fuel-level-indicator",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/fuel-level-indicator-pvg",
- 	        "tag": "v1.0.1",
-         	"deploy": true
-	    }, {
-	        "name": "Seat belt warning system using basic AND and NOT gates",
-		"short-name": "seat-belt-warning-system",
-		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/seat-belt-warning-system-pvg",
- 	        "tag": "v1.0.1",
-         	"deploy": true
-	   },{
-                "name": "Basics of AND gate and its application in car wiper control",
-                "short-name": "car-wiper-control",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/car-wiper-control-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Water level control using basic AND and NOT gates",
-                "short-name": "water-level-control",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/water-level-control-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Electronic lock using basic logic gates",
-                "short-name": "electronic-lock",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/electronic-lock-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Universal NAND gate and its application in level monitoring in chemical plant",
-                "short-name": "level-monitoring-chemical-plant",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/level-monitoring-chemical-plant-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Universal NOR gate and its application in automobile alarm system",
-                "short-name": "automobile-alarm-system",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/automobile-alarm-system-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
- 	  },{
-                "name": "XOR gate and its application in staircase light control",
-                "short-name": "staircase-light-control",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/staircase-light-control-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Majority circuit using basic logic gates",
-                "short-name": "majority-circuit",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/majority-circuit-using-basic-logic-gates-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-	  },{
-                "name": "Cockpit warning light control using basic logic gates",
-                "short-name": "cockpit-warning-light-control",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/cockpit-warning-light-control-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-   	 },{	
-		"name":"DIY Build your own combinational logic circuit using generalized simulator",
-                "short-name": "generalized-simulator",
-                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/generalized-simulator-pvg",
-                "tag": "v1.0.1",
-                "deploy": true
-          }
-
-    ],
-    "targetAudience": {
-        "UG": ["B.Tech, BE"],
-        "PG": ["M.Tech, ME"]
+    {
+      "name": "Basics of OR gate and its application in industrial control",
+      "short-name": "industrial-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/industrial-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "objective": "The lab is developed to provide the learner the understanding of basic logic gates and enable him to relate the logic to real world applications.",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": [
-			"SPPU", 
-			"AKTU"
-	]
+    {
+      "name": "Basics of NOT gate and its application in an eight bit ones complement circuit",
+      "short-name": "eight-bit-ones-complement",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/eight-bit-ones-complement-circuit-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Basic NOT gate and its application in fuel level indicator",
+      "short-name": "fuel-level-indicator",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/fuel-level-indicator-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Seat belt warning system using basic AND and NOT gates",
+      "short-name": "seat-belt-warning-system",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/seat-belt-warning-system-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Basics of AND gate and its application in car wiper control",
+      "short-name": "car-wiper-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/car-wiper-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Water level control using basic AND and NOT gates",
+      "short-name": "water-level-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/water-level-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Electronic lock using basic logic gates",
+      "short-name": "electronic-lock",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/electronic-lock-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Universal NAND gate and its application in level monitoring in chemical plant",
+      "short-name": "level-monitoring-chemical-plant",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/level-monitoring-chemical-plant-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Universal NOR gate and its application in automobile alarm system",
+      "short-name": "automobile-alarm-system",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/automobile-alarm-system-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "XOR gate and its application in staircase light control",
+      "short-name": "staircase-light-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/staircase-light-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Majority circuit using basic logic gates",
+      "short-name": "majority-circuit",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/majority-circuit-using-basic-logic-gates-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Cockpit warning light control using basic logic gates",
+      "short-name": "cockpit-warning-light-control",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/cockpit-warning-light-control-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "DIY Build your own combinational logic circuit using generalized simulator",
+      "short-name": "generalized-simulator",
+      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-applications-pvg/generalized-simulator-pvg",
+      "tag": "v1.0.1",
+      "deploy": true
     }
+  ],
+  "targetAudience": { "UG": ["B.Tech, BE"], "PG": ["M.Tech, ME"] },
+  "objective": "The lab is developed to provide the learner the understanding of basic logic gates and enable him to relate the logic to real world applications.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": ["SPPU", "AKTU"]
+  },
+  "exp_name": "DIY Build your own combinational logic circuit using generalized simulator",
+  "exp_short_name": "generalized-simulator",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ],
+  "version": "v1.0.3"
 }
