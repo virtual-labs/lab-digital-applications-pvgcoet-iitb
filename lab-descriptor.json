@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code": "ECE"
   },
   "lab": "Digital Applications",
+  "lab_display_name":"Digital Applications",
   "phase": 3,
   "deployLab": true,
   "collegeName": "IITB",
