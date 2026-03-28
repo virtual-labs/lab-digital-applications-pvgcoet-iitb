@@ -6,6 +6,7 @@
   },
   "lab": "Digital Applications",
   "lab_display_name":"Digital Applications",
+  "deployLab": true,
   "phase": 3,
   "collegeName": "IITB",
   "baseUrl": "da-iitb.vlabs.ac.in",
